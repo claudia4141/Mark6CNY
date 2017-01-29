@@ -1,9 +1,9 @@
 ---
-Analytics:
-  Bayesian Probability: Fengshui
+Title: Predict Chinese New Year Mark6 Hong Kong Lottery numbers
 Author: Fung YIP
 Date: 30 Jan 2017
-Title: Predict Chinese New Year Mark6 Hong Kong Lottery numbers
+Analytics:
+  Bayesian Probability: Fengshui
 ---
 
 
