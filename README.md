@@ -18,6 +18,8 @@ This repository is created to predict 2017 Chinese New Year Mark6 numbers (Hong 
 
 The function gen_Mark6 is created to generate lottery numbers randomly with 3, 5, 9 are more favourable to appear advised by Feng Shui Master Mak Ling Ling.
 
+Shinyapps is also available on <https://fungyip.shinyapps.io/cnymark6/>
+
 ####What is Mark6?
 In each draw, 7 numbers will be drawn out of 49 numbers. The first 6 numbers are the Drawn Numbers and the 7th number is the Extra Number. In order to win 1st Prize, you need to pick all the 6 drawn numbers.
 

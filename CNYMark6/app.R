@@ -12,12 +12,12 @@ library(shiny)
 # Define UI for application that draws a histogram
 ui <- fluidPage(
   titlePanel("新春金多寶"),
+  img(src = 'mak.JPG'),
   h4("攪珠日期: 1 Feb 2017 "),
   h4("估計頭獎基金: $80,000,000"),
-  br(),
   strong("按下財源滾滾來滾滾來"),
-  tags$head(tags$script(src = "message-handler.js")),
   actionButton("do", "新春金多寶號碼"),
+  tags$head(tags$script(src = "message-handler.js")),
   textOutput("Mark6")
 )
 
